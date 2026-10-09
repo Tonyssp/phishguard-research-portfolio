@@ -12,7 +12,7 @@ This is my personal portfolio copy of the [team repository](https://github.com/o
 
 ### Project materials
 
-- [Research paper (Word)](papers/TalkFile_PhishGuard_%E1%84%82%E1%85%A9%E1%86%AB%E1%84%86%E1%85%AE%E1%86%AB_%E1%84%89%E1%85%AE%E1%84%8C%E1%85%A5%E1%86%BC.docx.docx)
+- [Research paper (latest Word version)](papers/TalkFile_PhishGuard_AI_%E1%84%82%E1%85%A9%E1%86%AB%E1%84%86%E1%85%AE%E1%86%AB_%E1%84%80%E1%85%A2%E1%84%89%E1%85%A5%E1%86%AB-2.docx.docx)
 - [Project presentation (PDF)](papers/TalkFile_PhishGuard%20AI_%20Gmail%20%E1%84%91%E1%85%B5%E1%84%89%E1%85%B5%E1%86%BC%20%E1%84%86%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AF%20%E1%84%90%E1%85%A1%E1%86%B7%E1%84%8C%E1%85%B5%20Chrome%20%E1%84%92%E1%85%AA%E1%86%A8%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%86%B7%20%283%29.pdf.pdf)
 - [Original project instructions](README.upstream.md)
 
@@ -34,7 +34,7 @@ PhishGuard AI는 Gmail에서 피싱 위험을 탐지하기 위해 로컬 검사�
 
 ### 프로젝트 자료
 
-- [연구 논문 (Word)](papers/TalkFile_PhishGuard_%E1%84%82%E1%85%A9%E1%86%AB%E1%84%86%E1%85%AE%E1%86%AB_%E1%84%89%E1%85%AE%E1%84%8C%E1%85%A5%E1%86%BC.docx.docx)
+- [연구 논문 (최신 Word 버전)](papers/TalkFile_PhishGuard_AI_%E1%84%82%E1%85%A9%E1%86%AB%E1%84%86%E1%85%AE%E1%86%AB_%E1%84%80%E1%85%A2%E1%84%89%E1%85%A5%E1%86%AB-2.docx.docx)
 - [프로젝트 발표 자료 (PDF)](papers/TalkFile_PhishGuard%20AI_%20Gmail%20%E1%84%91%E1%85%B5%E1%84%89%E1%85%B5%E1%86%BC%20%E1%84%86%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AF%20%E1%84%90%E1%85%A1%E1%86%B7%E1%84%8C%E1%85%B5%20Chrome%20%E1%84%92%E1%85%AA%E1%86%A8%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%86%B7%20%283%29.pdf.pdf)
 - [기존 프로젝트 실행 설명](README.upstream.md)
 
@@ -45,3 +45,4 @@ PhishGuard AI는 Gmail에서 피싱 위험을 탐지하기 위해 로컬 검사�
 3. `chrome://extensions/`에서 개발자 모드를 켜고 `dist/` 폴더를 로드합니다.
 4. 확장 설정에서 AI 제공사와 본인의 API 키를 설정합니다. 로컬 API는 Ollama를 준비하고 Ollama Local을 선택합니다.
 5. Gmail을 새로고침하고 메일을 열어 확장 기능을 사용합니다.
+
